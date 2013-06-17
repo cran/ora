@@ -1,0 +1,12 @@
+40ef1488419916133d388afaafe22474 *DESCRIPTION
+b2130fe1c436aae55156aa58e6a3d3e9 *NAMESPACE
+32417fb51a7dd2cb48b6fb9c0d52d4ef *NEWS
+0fbb4643bf0079968f77a03e0e5c24ad *R/desc.R
+d6c9aa62f57f6ce02c6f9d1bb9af08aa *R/sql.R
+9a1ae91167a6c9435767d7d1475db5c8 *R/tables.R
+a7f5226700c5c84244780dd46041e330 *R/views.R
+d5a7d27dbc27903ff4a3626b5eb8a95e *man/desc.Rd
+cd48531491edc4341672b0bf3510a031 *man/ora-package.Rd
+ccc3d065c86a1673bf70677b9ee43037 *man/sql.Rd
+3fa6f1476d2946cf157ecc55f4e35e31 *man/tables.Rd
+3b4489d35e0a465614bdabe0cc137d7e *man/views.Rd
