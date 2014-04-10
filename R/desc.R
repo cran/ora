@@ -35,7 +35,7 @@ desc <- function(table, tolower=TRUE, dots=FALSE, ...)
   if(nrow(rows.date) > 0)
   {
     indent <- rep(" ", nchar(nrow(output))+1)
-    cat(indent, attr(output,"rows"), " rows on ", attr(output,"analyzed"), "\n\n", sep="")
+    cat(indent, attr(output,"rows"), " rows on ", as.character(attr(output,"analyzed")), "\n\n", sep="")
   }
 
   invisible(output)
